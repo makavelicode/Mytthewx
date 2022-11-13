@@ -3,17 +3,16 @@
 <h1 align="center">Hello, I'm Mytthew <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1> 
 <p align="center"><em>Software Engineer at <a href="https://www.haddad.com/">Haddad Brands</a></p>
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=mytthewx&label=Profile%20views&color=ff0000&style=flat" alt="mytthewx" />
-	<img src="https://wakatime.com/badge/user/71df4a98-8c24-4092-8747-28e159fdd0f8.svg?style=flat" alt="mytthewx" />
+	<img src="https://komarev.com/ghpvc/?username=mytthewx&color=blue&style=for-the-badge" alt="mytthewx" />
+	<img src="https://wakatime.com/badge/user/71df4a98-8c24-4092-8747-28e159fdd0f8.svg?style=for-the-badge" alt="mytthewx" />
 </p>
 
 <p align="center"><em>I live happily in a small town in Poland. In addition to my full-time job, I try to develop into a full stack developer every day. I am also a big fan of soccer, especially the English league. Every day I participate in discord servers related to programming and spend time with friends. </p>
 <p align="center"><img align="center" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" /></p><br>
 
-
 <h3 align="center">You can find me here:</h3>
 <p align="center"><a href="https://mytthew.eu/">www.mytthew.eu</a><p>
-<p align="center"> Discord will be here </p>
+<p align="center"> <img src="https://dcbadge.vercel.app/api/shield/330678278715080704" /> </p>
 <p align="center">
 </p>
 
