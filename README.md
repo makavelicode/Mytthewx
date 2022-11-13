@@ -1,3 +1,5 @@
+[![Header](https://raw.githubusercontent.com/Mytthewx/Mytthewx/main/header.png "Header")](https://github.com/Mytthewx)
+
 <h1 align="center">Hello, I'm Mytthew <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1> 
 <p align="center"><em>Software Engineer at <a href="https://www.haddad.com/">Haddad Brands</a></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mytthewx&label=Profile%20views&color=ff0000&style=flat" alt="mytthewx" /> </p>
