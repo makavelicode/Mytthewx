@@ -39,13 +39,13 @@
 <h3 align="center">Stats:</h3>
 <p align="center">
 <a href="">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mytthewx&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mytthewx&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=00000000&langs_count=3&hide_border=true" />
 </a>
 <a href="https://github.com/Mytthewx/Mytthewx">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mytthewx&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true" alt="Mytthewx's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mytthewx&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=00000000&hide_border=true" alt="Mytthewx's GitHub Stats" />
 </a></p>
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@mytthew&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=Batchfile,Markdown,Text,Groovy,CSHTML,Git,Git_Config,Properties,PowerSheel&hide_border=true" alt="Mytthewx's wakatime" />
+	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@mytthew&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=00000000&hide=Batchfile,Markdown,Text,Groovy,CSHTML,Git,Git_Config,Properties,PowerSheel&hide_border=true" alt="Mytthewx's wakatime" />
 </p>
 
 
