@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/makavelicode/makavelicode/main/header_v2.png "Header")](https://github.com/makavelicode)
+
 <!-- [![wakatime](https://wakatime.com/badge/user/71df4a98-8c24-4092-8747-28e159fdd0f8.svg)](https://wakatime.com/@71df4a98-8c24-4092-8747-28e159fdd0f8) -->
 <h1 align="center">Hello, I'm makaveli <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1> 
 <p align="center"> 
